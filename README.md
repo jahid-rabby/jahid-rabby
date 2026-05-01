@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jahid 👋
 
-<!--
-**jahid-rabby/jahid-rabby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronic Engineering Student
+⚡ Focused on Power Electronics & EV Charging Systems
 
-Here are some ideas to get you started:
+## 🔬 My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* EV Charger Design (FCC, SMPS etc)
+* LCL Filter Optimization
+* THD Reduction Techniques
+* MATLAB & Simulink Modeling
+
+## 🛠 Tools I Use
+
+* MATLAB / Simulink
+* CST Studio
+* Basic Circuit Analysis
+
+## 📌 Current Work
+
+* FCC-based EV Charger Research
+* IEEE Conference Paper Work
+
+## 📫 Connect with me
+
+* LinkedIn: linkedin.com/in/jahid-hossain-rabbi-joy
