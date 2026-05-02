@@ -25,6 +25,8 @@ Power systems, circuit analysis, EV chargers, and research writing
 ---
 
 ## 💻 Tech Stack:
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-%23007ACC.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,7 +45,7 @@ Power systems, circuit analysis, EV chargers, and research writing
 
 ---
 
-<!-- Optional: Uncomment if you want a bit more visual flair -->
+<!-- Optional: Uncomment if you want more visual elements -->
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jahid-rabby&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
